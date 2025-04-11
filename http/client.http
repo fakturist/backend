@@ -1,0 +1,9 @@
+### POST http://localhost:3000/api/clients
+POST http://localhost:3000/api/clients
+Content-Type: application/json
+
+{
+  "name": "Client One",
+  "email": "client1@localhost",
+  "userId": "cm9cs06gc00026dagjk78f05v"
+}

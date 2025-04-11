@@ -1,0 +1,8 @@
+### POST /api/user
+POST localhost:3000/api/users
+Content-Type: application/json
+
+{
+  "email": "some.mail.address@localhost",
+  "name": "Some Name"
+}
